@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Nav />
-      <div className="bg-emerald-500	 w-full h-screen"></div>
+      <div className="bg-emerald-500 w-full h-screen"></div>
     </>
   );
 }
